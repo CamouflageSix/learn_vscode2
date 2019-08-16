@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/camouflagesix/git/learn_vscode2/build",
+  "command": "/usr/bin/g++-7    -g   -o CMakeFiles/learn_vscode2.dir/main.cpp.o -c /home/camouflagesix/git/learn_vscode2/main.cpp",
+  "file": "/home/camouflagesix/git/learn_vscode2/main.cpp"
+}
+]
