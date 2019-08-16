@@ -8,5 +8,6 @@ int main(int, char**)
     {
         std::cout << "Sample For Loop : " << i << std::endl;
     }
-
+    
+    return 0;
 }
